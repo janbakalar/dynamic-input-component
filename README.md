@@ -1,5 +1,8 @@
 # Dynamic Input Component
 
+![image](https://github.com/user-attachments/assets/1635e237-55ed-4df2-bda4-63b3265d9aa2)
+
+
 ## Description
 
 The Dynamic Input Component allows users to insert and manage tags dynamically within a text input. It provides an intuitive interface for adding predefined tags, along with the capability to edit and remove those tags as necessary.
